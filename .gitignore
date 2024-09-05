@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+config
+
+.eslintcache
+
+uploads
+
+.env
+
+package-lock.json
+
+# production
+build
+
+
+# testing
+coverage
+
+
+# misc
+debug.log
