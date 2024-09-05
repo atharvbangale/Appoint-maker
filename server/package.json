@@ -7,7 +7,7 @@
         "server": "nodemon server.js"
     },
     "keywords": [],
-    "author": "Shankar Gurung",
+    "author": "Atharv bangale",
     "license": "ISC",
     "dependencies": {
         "base64-img": "^1.0.4",
